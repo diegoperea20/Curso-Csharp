@@ -1,0 +1,14 @@
+d:\CursoCsharp\arreglos\obj\Debug\net8.0\arreglos.GeneratedMSBuildEditorConfig.editorconfig
+d:\CursoCsharp\arreglos\obj\Debug\net8.0\arreglos.AssemblyInfoInputs.cache
+d:\CursoCsharp\arreglos\obj\Debug\net8.0\arreglos.AssemblyInfo.cs
+d:\CursoCsharp\arreglos\obj\Debug\net8.0\arreglos.csproj.CoreCompileInputs.cache
+d:\CursoCsharp\arreglos\bin\Debug\net8.0\arreglos.exe
+d:\CursoCsharp\arreglos\bin\Debug\net8.0\arreglos.deps.json
+d:\CursoCsharp\arreglos\bin\Debug\net8.0\arreglos.runtimeconfig.json
+d:\CursoCsharp\arreglos\bin\Debug\net8.0\arreglos.dll
+d:\CursoCsharp\arreglos\bin\Debug\net8.0\arreglos.pdb
+d:\CursoCsharp\arreglos\obj\Debug\net8.0\arreglos.dll
+d:\CursoCsharp\arreglos\obj\Debug\net8.0\refint\arreglos.dll
+d:\CursoCsharp\arreglos\obj\Debug\net8.0\arreglos.pdb
+d:\CursoCsharp\arreglos\obj\Debug\net8.0\arreglos.genruntimeconfig.cache
+d:\CursoCsharp\arreglos\obj\Debug\net8.0\ref\arreglos.dll

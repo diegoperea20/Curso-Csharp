@@ -1,0 +1,14 @@
+d:\CursoCsharp\variables\obj\Debug\net8.0\variables.GeneratedMSBuildEditorConfig.editorconfig
+d:\CursoCsharp\variables\obj\Debug\net8.0\variables.AssemblyInfoInputs.cache
+d:\CursoCsharp\variables\obj\Debug\net8.0\variables.AssemblyInfo.cs
+d:\CursoCsharp\variables\obj\Debug\net8.0\variables.csproj.CoreCompileInputs.cache
+d:\CursoCsharp\variables\bin\Debug\net8.0\variables.exe
+d:\CursoCsharp\variables\bin\Debug\net8.0\variables.deps.json
+d:\CursoCsharp\variables\bin\Debug\net8.0\variables.runtimeconfig.json
+d:\CursoCsharp\variables\bin\Debug\net8.0\variables.dll
+d:\CursoCsharp\variables\bin\Debug\net8.0\variables.pdb
+d:\CursoCsharp\variables\obj\Debug\net8.0\variables.dll
+d:\CursoCsharp\variables\obj\Debug\net8.0\refint\variables.dll
+d:\CursoCsharp\variables\obj\Debug\net8.0\variables.pdb
+d:\CursoCsharp\variables\obj\Debug\net8.0\variables.genruntimeconfig.cache
+d:\CursoCsharp\variables\obj\Debug\net8.0\ref\variables.dll

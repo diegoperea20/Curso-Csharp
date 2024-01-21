@@ -1,0 +1,14 @@
+d:\CursoCsharp\matrices\bin\Debug\net8.0\matrices.exe
+d:\CursoCsharp\matrices\bin\Debug\net8.0\matrices.deps.json
+d:\CursoCsharp\matrices\bin\Debug\net8.0\matrices.runtimeconfig.json
+d:\CursoCsharp\matrices\bin\Debug\net8.0\matrices.dll
+d:\CursoCsharp\matrices\bin\Debug\net8.0\matrices.pdb
+d:\CursoCsharp\matrices\obj\Debug\net8.0\matrices.GeneratedMSBuildEditorConfig.editorconfig
+d:\CursoCsharp\matrices\obj\Debug\net8.0\matrices.AssemblyInfoInputs.cache
+d:\CursoCsharp\matrices\obj\Debug\net8.0\matrices.AssemblyInfo.cs
+d:\CursoCsharp\matrices\obj\Debug\net8.0\matrices.csproj.CoreCompileInputs.cache
+d:\CursoCsharp\matrices\obj\Debug\net8.0\matrices.dll
+d:\CursoCsharp\matrices\obj\Debug\net8.0\refint\matrices.dll
+d:\CursoCsharp\matrices\obj\Debug\net8.0\matrices.pdb
+d:\CursoCsharp\matrices\obj\Debug\net8.0\matrices.genruntimeconfig.cache
+d:\CursoCsharp\matrices\obj\Debug\net8.0\ref\matrices.dll

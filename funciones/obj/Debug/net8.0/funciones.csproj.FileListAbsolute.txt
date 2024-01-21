@@ -1,0 +1,14 @@
+d:\CursoCsharp\funciones\bin\Debug\net8.0\funciones.exe
+d:\CursoCsharp\funciones\bin\Debug\net8.0\funciones.deps.json
+d:\CursoCsharp\funciones\bin\Debug\net8.0\funciones.runtimeconfig.json
+d:\CursoCsharp\funciones\bin\Debug\net8.0\funciones.dll
+d:\CursoCsharp\funciones\bin\Debug\net8.0\funciones.pdb
+d:\CursoCsharp\funciones\obj\Debug\net8.0\funciones.GeneratedMSBuildEditorConfig.editorconfig
+d:\CursoCsharp\funciones\obj\Debug\net8.0\funciones.AssemblyInfoInputs.cache
+d:\CursoCsharp\funciones\obj\Debug\net8.0\funciones.AssemblyInfo.cs
+d:\CursoCsharp\funciones\obj\Debug\net8.0\funciones.csproj.CoreCompileInputs.cache
+d:\CursoCsharp\funciones\obj\Debug\net8.0\funciones.dll
+d:\CursoCsharp\funciones\obj\Debug\net8.0\refint\funciones.dll
+d:\CursoCsharp\funciones\obj\Debug\net8.0\funciones.pdb
+d:\CursoCsharp\funciones\obj\Debug\net8.0\funciones.genruntimeconfig.cache
+d:\CursoCsharp\funciones\obj\Debug\net8.0\ref\funciones.dll

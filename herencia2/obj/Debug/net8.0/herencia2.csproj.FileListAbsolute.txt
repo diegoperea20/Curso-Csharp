@@ -1,0 +1,14 @@
+d:\CursoCsharp\herencia2\bin\Debug\net8.0\herencia2.exe
+d:\CursoCsharp\herencia2\bin\Debug\net8.0\herencia2.deps.json
+d:\CursoCsharp\herencia2\bin\Debug\net8.0\herencia2.runtimeconfig.json
+d:\CursoCsharp\herencia2\bin\Debug\net8.0\herencia2.dll
+d:\CursoCsharp\herencia2\bin\Debug\net8.0\herencia2.pdb
+d:\CursoCsharp\herencia2\obj\Debug\net8.0\herencia2.GeneratedMSBuildEditorConfig.editorconfig
+d:\CursoCsharp\herencia2\obj\Debug\net8.0\herencia2.AssemblyInfoInputs.cache
+d:\CursoCsharp\herencia2\obj\Debug\net8.0\herencia2.AssemblyInfo.cs
+d:\CursoCsharp\herencia2\obj\Debug\net8.0\herencia2.csproj.CoreCompileInputs.cache
+d:\CursoCsharp\herencia2\obj\Debug\net8.0\herencia2.dll
+d:\CursoCsharp\herencia2\obj\Debug\net8.0\refint\herencia2.dll
+d:\CursoCsharp\herencia2\obj\Debug\net8.0\herencia2.pdb
+d:\CursoCsharp\herencia2\obj\Debug\net8.0\herencia2.genruntimeconfig.cache
+d:\CursoCsharp\herencia2\obj\Debug\net8.0\ref\herencia2.dll
